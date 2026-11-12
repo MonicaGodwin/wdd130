@@ -6,3 +6,13 @@
     --heading-font: "Times New Roman", "Georgia", serif;
     --body-font: Aria1, Helvetica, Sans-Serif;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+}
