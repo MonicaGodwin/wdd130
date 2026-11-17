@@ -30,3 +30,12 @@ body {
 .item3 {
     min-height: 300px;
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: nowrap;
+}
